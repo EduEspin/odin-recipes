@@ -1,0 +1,39 @@
+body {font-family: 'Times New Roman', Times, serif;background-color: #22272e;}
+#container {
+      width: 900px;
+      margin: 10px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 10px;
+}
+#banner {
+    margin: 10px;
+    padding: 10px;
+    background-color: #373e47;
+    text-align: center;
+    color: #adbac7;
+    
+}
+
+#content {
+    background-color: #373e47;
+    margin: 10px;
+    padding: 10px;
+    color: #adbac7;
+}
+a , a:visited{
+    color: #2980b9;
+    text-decoration: none; 
+}
+a:hover , a:active{
+    color: #9b16d5e4;
+    text-decoration: underline;
+}
+
+.center_image {
+    height: auto;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
